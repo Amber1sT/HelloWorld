@@ -1,2 +1,2 @@
 # HelloWorld
-my first program at GitHub!
+*my first program on GitHub!*
