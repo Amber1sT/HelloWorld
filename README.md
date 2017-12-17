@@ -1,12 +1,10 @@
-# HelloWorld
+#HelloWorld
 
-*my first program on GitHub!*
+- starting at 2017-12-17 22:55:23
+  getting over it with Typora.
+  git
+  C++
+  data structure
 
-- 2016-11-20 21:45:41  
-   Installed GitHub Desktop  
-    Cloned HelloWorld  
-    Try to change  
-    test  
-    
+- interesting is best teacher?
 
-Getting over it with Typora.
