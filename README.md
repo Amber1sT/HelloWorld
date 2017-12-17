@@ -6,4 +6,5 @@
 	C++
 	data structure
 
+
 - interesting is best teacher?
