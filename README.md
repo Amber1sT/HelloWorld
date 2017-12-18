@@ -4,4 +4,4 @@
   getting over it with Typora  
   learning git  
   forgetting Markdown...  
-- interest is best teacher?Practice makes perfect.  
+- interest is the best teacher?Practice makes perfect.  
